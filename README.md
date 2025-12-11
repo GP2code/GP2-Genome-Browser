@@ -2,6 +2,8 @@
 
 `GP2 ❤️ Open Science 😍`
 
+[![DOI](https://zenodo.org/badge/1114690220.svg)](https://doi.org/10.5281/zenodo.17903069)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -42,7 +44,7 @@ If you use this repository or find it helpful, please cite:
 > *The Global Parkinson’s Disease Genetics (GP2) Genome Browser* (2025).  
 >  
 > **Manuscript DOI:** coming soon  
-> **GitHub DOI:** xx
+> **GitHub DOI:**  DOI 10.5281/zenodo.17903069
 
 ---
 
